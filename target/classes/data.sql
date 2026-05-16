@@ -1,0 +1,1 @@
+-- Datos de prueba (solo perfil dev con H2)
